@@ -1,6 +1,4 @@
-package emailApp;
 import java.util.Scanner;
-
 public class EmailApp {
     public static void main(String[] args) {
         String firstName, lastName;

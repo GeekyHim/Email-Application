@@ -1,4 +1,4 @@
-package emailapp;
+
 import java.util.Scanner;
 public class Email {
     //yaha se object creation hoga
